@@ -1,0 +1,84 @@
+body
+{
+    margin: 4px;
+    background-color:#1C2833;
+}
+
+h1
+{
+    text-align: center;
+    color: whitesmoke;
+}
+
+/*Menu*/
+.menu
+{
+    display: flex;
+    padding: 20px;
+    margin-right: 10px;
+}
+
+.menulink
+{
+    border-bottom: 2px solid transparent;
+    transition: border-bottom 0.5s;
+}
+
+.menulink a
+{
+    color: silver;
+    text-decoration: none;
+}
+
+/*Gallery*/
+table
+{
+    margin-left: auto;
+    margin-right:auto;
+}
+.gallery img
+{
+    width:auto;
+    height:200px;
+}
+
+#pica
+{
+    background-color: black;
+}
+#picb
+{
+    background-color: rgb(12, 12, 75);
+}
+
+/*Links*/
+h3
+{
+    color: whitesmoke;
+    margin-left: 200px;
+}
+
+.links a
+{
+    color: silver;
+}
+a:visited
+{
+    color: lightsteelblue;
+}
+active-a
+{
+    color: lightcyan;
+}
+a:hover
+{
+    color: white;
+}
+
+/*Red Panda Page*/
+#redpanda
+{
+    margin-left: auto;
+    margin-right:auto;
+    padding:20px"
+}
